@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1gFNJf9MGFDIajw-hcHhOf3vHu210NH00/view?usp=shari
 https://drive.google.com/file/d/1UKwcWd26QRLo0U0OP5YpzGzkKC_mZUZT/view?usp=sharing
 https://drive.google.com/file/d/1ILiOJz_nWCQHjRXOzyu0Mrtcs7mGwM59/view?usp=sharing
 
-### 7) References
+### 8) References
 1)	KL25 Sub-Family Reference Manual.
 2)	FRDM-KL25Z User’s Manual.
 3)	MMA851Q datasheet by NXP Semiconductors.
