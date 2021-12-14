@@ -56,9 +56,9 @@ LED colors will be changes and by using PWM, intensity of colors will also chang
 ### 7) Video and Photo
 Please find below links to access video and image. Please access it with the university email ID.
 
-Video 1: https://drive.google.com/file/d/1gFNJf9MGFDIajw-hcHhOf3vHu210NH00/view?usp=sharing
-Video 2: https://drive.google.com/file/d/1UKwcWd26QRLo0U0OP5YpzGzkKC_mZUZT/view?usp=sharing
-Image: https://drive.google.com/file/d/1ILiOJz_nWCQHjRXOzyu0Mrtcs7mGwM59/view?usp=sharing
+https://drive.google.com/file/d/1gFNJf9MGFDIajw-hcHhOf3vHu210NH00/view?usp=sharing
+https://drive.google.com/file/d/1UKwcWd26QRLo0U0OP5YpzGzkKC_mZUZT/view?usp=sharing
+https://drive.google.com/file/d/1ILiOJz_nWCQHjRXOzyu0Mrtcs7mGwM59/view?usp=sharing
 
 ### 7) References
 1)	KL25 Sub-Family Reference Manual.
