@@ -24,7 +24,7 @@ Note: The project is designed for range of angle between 0 to 180 degree. Any re
 In this project we are using the following commands: 
 1) author : Print the name of the author (Here, Darshit Nareshkumar Agrawal).
 2) help: Print the relevant commands and their information.
-3) input <angle in degrees>: Angle at which gauge has to be placed.
+3) input _<angle in degrees>_: Angle at which gauge has to be placed.
 4) If the user gives command other than the above four, unknown command diagnostic message will be displayed.
 
 ### 3) Calibration
